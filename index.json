@@ -10,7 +10,7 @@
           "name": "Titan Minecraft Launcher",
           "downloads": [
             {
-              "version": "",
+              "version": "3.8.0",
               "requireAppVersion": "0.0.1",
               "platforms": [
                 "win32",
