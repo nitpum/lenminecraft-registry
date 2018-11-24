@@ -1,0 +1,26 @@
+{
+  "formatVersion": 1,
+  "version": 1,
+  "libraries": [
+    {
+      "name": "Minecraft",
+      "items": [
+        {
+          "name": "Minecraft v1.3.2",
+          "version": "v1.3.2"
+        }
+      ]
+    },
+    {
+      "name": "Software",
+      "items": [
+        {
+          "name": "Java",
+          "playable": false,
+          "launchable": false,
+          "link": "https://www.java.com/en/download"
+        }
+      ]
+    }
+  ]
+}
