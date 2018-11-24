@@ -16,13 +16,15 @@
       "items": [
         {
           "name": "Java",
-          "playable": false,
-          "launchable": false,
-          "link": "https://www.java.com/en/download"
+          "downloadable": false,
+          "getable": true,
+          "getlink": "https://www.java.com/en/download"
         },
         {
           "name": "Discord",
-          "link": "http://discord.com"
+          "downloadable": false,
+          "getable": true,
+          "getlink": "http://discord.com"
         }
       ]
     }
