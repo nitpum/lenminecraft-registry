@@ -6,8 +6,9 @@
       "name": "Minecraft",
       "items": [
         {
-          "name": "Minecraft v1.3.2",
-          "version": "v1.3.2",
+          "id": "client.minecraft",
+          "name": "Minecraft (2018)",
+          "version": "v2",
           "downloadable": true,
           "links": {
             "download": "https://raw.githubusercontent.com/nitpum/lenminecraft-registry/master/index.json"
@@ -19,6 +20,7 @@
       "name": "Software",
       "items": [
         {
+          "id": "com.java",
           "name": "Java",
           "downloadable": false,
           "gettable": true,
@@ -27,6 +29,7 @@
           }
         },
         {
+          "id": "com.discord",
           "name": "Discord",
           "downloadable": false,
           "gettable": true,
