@@ -3,16 +3,21 @@
   "version": 1,
   "libraries": [
     {
-      "name": "Minecraft",
+      "name": "Minecraft Core",
       "items": [
         {
           "id": "client.minecraft",
-          "name": "Minecraft (2018)",
+          "name": "Minecraft Core",
+          "description": "Standard minecraft client",
           "version": "v2",
-          "downloadable": true,
-          "links": {
-            "download": "https://raw.githubusercontent.com/nitpum/lenminecraft-registry/master/index.json"
-          }
+          "downloads": [
+            {
+              "platforms": [
+                "win64"
+              ],
+              "url": "https://raw.githubusercontent.com/nitpum/lenminecraft-registry/master/index.json"
+            }            
+          ]
         }
       ]
     },
@@ -22,8 +27,6 @@
         {
           "id": "com.java",
           "name": "Java",
-          "downloadable": false,
-          "gettable": true,
           "links": {
             "get": "https://www.java.com/en/download"
           }
@@ -31,8 +34,6 @@
         {
           "id": "com.discord",
           "name": "Discord",
-          "downloadable": false,
-          "gettable": true,
           "links": {
             "get": "http://discord.com"
           }
