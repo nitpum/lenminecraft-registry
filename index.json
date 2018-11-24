@@ -3,6 +3,26 @@
   "version": 1,
   "libraries": [
     {
+      "name": "Launcher",
+      "items": [
+        {
+          "id": "",
+          "name": "Titan Minecraft Launcher",
+          "downloads": [
+            {
+              "version": "",
+              "requireAppVersion": "0.0.1",
+              "platforms": [
+                "win32",
+                "win64"
+              ],
+              "url": "https://cdn.discordapp.com/attachments/269852819605946368/515933049473466374/TintanMCLauncher.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Minecraft Core",
       "items": [
         {
@@ -14,7 +34,10 @@
               "version": "1",
               "requireAppVersion": "0.0.1",
               "platforms": [
-                "win64"
+                "win32",
+                "win64",
+                "linux",
+                "macos"
               ],
               "url": "https://raw.githubusercontent.com/nitpum/lenminecraft-registry/master/index.json"
             }            
