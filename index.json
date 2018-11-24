@@ -21,7 +21,7 @@
         {
           "name": "Java",
           "downloadable": false,
-          "getable": true,
+          "gettable": true,
           "links": {
             "get": "https://www.java.com/en/download"
           }
@@ -29,7 +29,7 @@
         {
           "name": "Discord",
           "downloadable": false,
-          "getable": true,
+          "gettable": true,
           "links": {
             "get": "http://discord.com"
           }
