@@ -19,6 +19,10 @@
           "playable": false,
           "launchable": false,
           "link": "https://www.java.com/en/download"
+        },
+        {
+          "name": "Discord",
+          "link": "http://discord.com"
         }
       ]
     }
