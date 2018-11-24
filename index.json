@@ -6,7 +6,7 @@
       "name": "Launcher",
       "items": [
         {
-          "id": "",
+          "id": "launcher.titanminecraftlauncher",
           "name": "Titan Minecraft Launcher",
           "downloads": [
             {
