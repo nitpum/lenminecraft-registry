@@ -7,7 +7,11 @@
       "items": [
         {
           "name": "Minecraft v1.3.2",
-          "version": "v1.3.2"
+          "version": "v1.3.2",
+          "downloadable": true,
+          "links": {
+            "download": "https://raw.githubusercontent.com/nitpum/lenminecraft-registry/master/index.json"
+          }
         }
       ]
     },
@@ -18,13 +22,17 @@
           "name": "Java",
           "downloadable": false,
           "getable": true,
-          "getlink": "https://www.java.com/en/download"
+          "links": {
+            "get": "https://www.java.com/en/download"
+          }
         },
         {
           "name": "Discord",
           "downloadable": false,
           "getable": true,
-          "getlink": "http://discord.com"
+          "links": {
+            "get": "http://discord.com"
+          }
         }
       ]
     }
