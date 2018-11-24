@@ -9,9 +9,10 @@
           "id": "client.minecraft",
           "name": "Minecraft Core",
           "description": "Standard minecraft client",
-          "version": "v2",
           "downloads": [
             {
+              "version": "1",
+              "requireAppVersion": "0.0.1",
               "platforms": [
                 "win64"
               ],
