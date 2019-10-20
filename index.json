@@ -12,11 +12,20 @@
             {
               "version": "3.8.0",
               "requireAppVersion": "0.0.1",
-              "platforms": [
-                "win32",
-                "win64"
-              ],
+              "platforms": ["win32", "win64"],
               "url": "http://gamer.piriyalai.ac.th/downloads/launcher.titanminecraftlauncher_1.zip"
+            }
+          ]
+        },
+        {
+          "id": "launcher.tlauncher",
+          "name": "TLauncher",
+          "downloads": [
+            {
+              "version": "2.67.0",
+              "requireAppVersion": "0.0.1",
+              "platforms": ["win32", "win64"],
+              "url": "http://gamer.piriyalai.ac.th/downloads/launcher.tlauncher_1.zip"
             }
           ]
         }
@@ -33,14 +42,9 @@
             {
               "version": "1",
               "requireAppVersion": "0.0.1",
-              "platforms": [
-                "win32",
-                "win64",
-                "linux",
-                "macos"
-              ],
+              "platforms": ["win32", "win64", "linux", "macos"],
               "url": "http://gamer.piriyalai.ac.th/downloads/minecraft_client.zip"
-            }            
+            }
           ]
         }
       ]
