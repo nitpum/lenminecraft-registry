@@ -53,10 +53,10 @@
       "name": "Software",
       "items": [
         {
-          "id": "com.java.jdk.16",
-          "name": "Java 16",
+          "id": "com.java.jdk.17",
+          "name": "Java 17",
           "links": {
-            "get": "https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html"
+            "get": "https://www.oracle.com/java/technologies/downloads/#jdk17-windows"
           }
         },
         {
