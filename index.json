@@ -53,6 +53,13 @@
       "name": "Software",
       "items": [
         {
+          "id": "com.java.jdk.16",
+          "name": "Java 16",
+          "links": {
+            "get": "https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html"
+          }
+        },
+        {
           "id": "com.java",
           "name": "Java",
           "links": {
