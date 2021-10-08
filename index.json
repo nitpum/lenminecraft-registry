@@ -53,10 +53,10 @@
       "name": "Software",
       "items": [
         {
-          "id": "com.java.jdk.17",
-          "name": "Java 17",
+          "id": "net.adoptium.openjdk16",
+          "name": "JDK 16 (Adoptium)",
           "links": {
-            "get": "https://www.oracle.com/java/technologies/downloads/#jdk17-windows"
+            "get": "https://adoptium.net/archive.html?variant=openjdk16&jvmVariant=hotspot"
           }
         },
         {
