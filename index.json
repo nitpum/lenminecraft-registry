@@ -61,7 +61,7 @@
               "version": "1",
               "requireAppVersion": "0.0.1",
               "platforms": ["win32", "win64", "linux", "macos"],
-              "url": "http://gamer.piriyalai.ac.th/downloads/helper.mod-installer.zip"
+              "url": "https://storage.googleapis.com/nitpum-eec4a.appspot.com/mcmfz1/helper.mod-installer.zip"
             }
           ]
         }
