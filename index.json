@@ -53,15 +53,28 @@
       "name": "Helper",
       "items": [
         {
-          "id": "helper.mod-installer.1.2",
-          "name": "Mod Installer",
+          "id": "helper.mod-installer-one-two",
+          "name": "Mod Installer v1.2",
           "description": "Install mods for Minecraft",
           "downloads": [
             {
               "version": "1.2.0",
               "requireAppVersion": "0.0.1",
               "platforms": ["win32", "win64", "linux", "macos"],
-              "url": "https://gamer.piriyalai.ac.th/downloads/helper.mod-installer.1.2.zip"
+              "url": "https://gamer.piriyalai.ac.th/downloads/helper.mod-installer-one-two.zip"
+            }
+          ]
+        },
+        {
+          "id": "helper.mod-installer",
+          "name": "Mod Installer",
+          "description": "Install mods for Minecraft",
+          "downloads": [
+            {
+              "version": "1",
+              "requireAppVersion": "0.0.1",
+              "platforms": ["win32", "win64", "linux", "macos"],
+              "url": "http://gamer.piriyalai.ac.th/downloads/helper.mod-installer.zip"
             }
           ]
         }
