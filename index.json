@@ -58,6 +58,12 @@
           "description": "Install mods for Minecraft",
           "downloads": [
             {
+              "version": "1.2.0",
+              "requireAppVersion": "0.0.1",
+              "platforms": ["win32", "win64", "linux", "macos"],
+              "url": "https://oaklog.blob.core.windows.net/download/helper.mod-installer.zip"
+            },
+            {
               "version": "1",
               "requireAppVersion": "0.0.1",
               "platforms": ["win32", "win64", "linux", "macos"],
