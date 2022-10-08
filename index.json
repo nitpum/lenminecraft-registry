@@ -61,7 +61,7 @@
               "version": "1.2.0",
               "requireAppVersion": "0.0.1",
               "platforms": ["win32", "win64", "linux", "macos"],
-              "url": "https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/helper.mod-installer-one-two.zip"
+              "url": "https://f004.backblazeb2.com/file/oaklog/helper.mod-installer-one-two.zip"
             }
           ]
         }
