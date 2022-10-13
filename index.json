@@ -25,7 +25,7 @@
           "name": "TLauncher",
           "downloads": [
             {
-              "version": "2.67.0",
+              "version": "3.8.0",
               "requireAppVersion": "0.0.1",
               "platforms": [
                 "win32",
@@ -65,9 +65,18 @@
       "items": [
         {
           "id": "helper.mod-installer-one-two",
-          "name": "Mod Installer v1.2",
+          "name": "Mod Installer",
           "description": "Install mods for Minecraft",
           "downloads": [
+            {
+              "version": "1.2.1",
+              "requireAppVersion": "0.0.1",
+              "platforms": [
+                "win32",
+                "win64"
+              ],
+              "url": "https://f004.backblazeb2.com/file/oaklog/package/helper-mod-installer/helper.mod-installer-1.2.1.zip"
+            },
             {
               "version": "1.2.0",
               "requireAppVersion": "0.0.1",
