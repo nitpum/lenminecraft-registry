@@ -64,7 +64,7 @@
       "name": "Helper",
       "items": [
         {
-          "id": "helper.mod-installer-one-two",
+          "id": "helper.mod-installer",
           "name": "Mod Installer",
           "description": "Install mods for Minecraft",
           "downloads": [
