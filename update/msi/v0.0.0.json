@@ -1,0 +1,10 @@
+{
+  "version": "v2.0.0",
+  "notes": "- Update UI\n- App now can launch local library",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRTB0Ykx0R01lTlRtZFVHZldNWHNVRStDWFVnT3k1bVBaa0lVRTF6WHRYTkNERjBqNnB4MFZOK0dqUGxSZEI1RzhnVDR1RDNadHo4Y0d3bXB2c0M2OERha2lreC85SEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NjQ1NzA4CWZpbGU6TEVOTUNfMi4wLjBfeDY0X2VuLVVTLm1zaS56aXAKUUNjZyszYmZxZnIwbGtxM0laYUVCdGMyaFdwTi94NG0wWHFxTmd4WXNDRFllMHVaY3V2ZGwrZVNhUGVGTFYvRjREMHBWdE9jRDMwYVgzbkxxbnFNREE9PQo=",
+      "url": "https://f004.backblazeb2.com/file/oaklog/lenmc/2.0.0/LENMC_2.0.0_x64_en-US.msi.zip"
+    }
+  }
+}
