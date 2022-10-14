@@ -1,6 +1,6 @@
 {
 	"version": "v2.2.0",
-	"notes": "- Change sign key\n - Add loading/error ui in browse\n- Hide incorrect directory package",
+	"notes": "Need to manual download at https://f004.backblazeb2.com/file/oaklog/lenmc/2.2.0/LENMC_2.2.0_x64_en-US.msi.zip",
 	"platforms": {
 		"windows-x86_64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb045M1JuaEljZTEyaThpNFc3WFAvSVdhcWlJUkVPYnZYOGpwR0t3Y2hLdUJGL1NWaWh5NzVhRUh6V25wVG90WTVlTzFMazZRRkQxY0liaTg2TmxLWWVoNkhkeFJRMUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzY4ODc5CWZpbGU6TEVOTUNfMi4yLjBfeDY0X2VuLVVTLm1zaS56aXAKeEJFdnhmcW1ubTlJL3VkNzM0Y3dUcXB1dnJNbFE3ZUFUM1BETnZvY0plRk9jTFRnTjdiWEs3bGxteDFPMWhCek9ES3YxSTRtZ2s5bmIzRksyZ1dkQlE9PQo=",
