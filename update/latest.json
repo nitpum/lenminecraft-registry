@@ -1,10 +1,10 @@
 {
-	"version": "v2.1.5",
-	"notes": "- Improve UX \n - Fix bugs ",
+	"version": "v2.2.0",
+	"notes": "- Change sign key\n - Add loading/error ui in browse\n- Hide incorrect directory package",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRTB0Ykx0R01lTlVvTnFxc0owVmtiOGxnQVZFUlFLMXhvSTczcDlLOVFJbVhiWmJ4dzhKU2kzdXA0YlNsTFY1TWp1V1N3SzUxclEvSTlBbytCVlAzSWhCOC9hNExvZlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NjkzOTk0CWZpbGU6TEVOTUNfMi4xLjVfeDY0X2VuLVVTLm1zaS56aXAKVC9aeDhvTlRpY21LbFdVUnk2TVRuVTRaVEtoanMxMFNaMVhMY0FvZnJqM1oxZis2dDVpcGRhSFpSbjdhTjR5aGdVTjBRbXlveFpFSURnQXdmM2RGQWc9PQo=",
-			"url": "https://f004.backblazeb2.com/file/oaklog/lenmc/2.1.5/LENMC_2.1.5_x64_en-US.msi.zip"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb045M1JuaEljZTEyaThpNFc3WFAvSVdhcWlJUkVPYnZYOGpwR0t3Y2hLdUJGL1NWaWh5NzVhRUh6V25wVG90WTVlTzFMazZRRkQxY0liaTg2TmxLWWVoNkhkeFJRMUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzY4ODc5CWZpbGU6TEVOTUNfMi4yLjBfeDY0X2VuLVVTLm1zaS56aXAKeEJFdnhmcW1ubTlJL3VkNzM0Y3dUcXB1dnJNbFE3ZUFUM1BETnZvY0plRk9jTFRnTjdiWEs3bGxteDFPMWhCek9ES3YxSTRtZ2s5bmIzRksyZ1dkQlE9PQo=",
+			"url": "https://f004.backblazeb2.com/file/oaklog/lenmc/2.2.0/LENMC_2.2.0_x64_en-US.msi.zip"
 		}
 	}
 }
