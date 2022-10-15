@@ -69,6 +69,15 @@
           "description": "Install mods for Minecraft",
           "downloads": [
             {
+              "version": "1.3.1",
+              "requireAppVersion": "0.0.1",
+              "platforms": [
+                "win32",
+                "win64"
+              ],
+              "url": "https://oaklog.nitpum.com/package/helper-mod-installer/helper.mod-installer-1.3.1.zip"
+            },
+            {
               "version": "1.3.0",
               "requireAppVersion": "0.0.1",
               "platforms": [
@@ -84,7 +93,7 @@
                 "win32",
                 "win64"
               ],
-              "url": "https://f004.backblazeb2.com/file/oaklog/package/helper-mod-installer/helper.mod-installer-1.2.1.zip"
+              "url": "https://oaklog.nitpum.com/package/helper-mod-installer/helper.mod-installer-1.2.1.zip"
             },
             {
               "version": "1.2.0",
@@ -95,7 +104,7 @@
                 "linux",
                 "macos"
               ],
-              "url": "https://f004.backblazeb2.com/file/oaklog/helper.mod-installer-one-two.zip"
+              "url": "https://oaklog.nitpum.com/helper.mod-installer-one-two.zip"
             }
           ]
         }
